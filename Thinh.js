@@ -1,1 +1,1 @@
-/// Ok thinh
+// Ok thinh
